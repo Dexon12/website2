@@ -1,0 +1,55 @@
+.black_up img{
+	width: 150px;
+	vertical-align: center;
+	margin-left:  50px;
+}
+.black_up h2{
+	display: inline-block;
+	vertical-align: top ;
+	margin-left: 75px;
+	color: greenyellow;
+}
+.black_up{
+	background-color: black;
+}
+body{
+	padding: 0px;
+	margin: 0px ;
+}
+.gifts img{
+	width: 150px;
+	margin: 20px;
+	border: 2px green solid;
+
+}
+.gifts{
+	width: 600px ;
+	margin: auto;
+}
+.white_midle h3{
+	text-align: center;
+}
+.red_midle{
+	background-color: indianred;
+	padding: 30px;
+}
+.red_midle h3{
+	text-align: center;
+}
+.red_midle ol{
+	text-decoration: underline;
+	width: 150px;
+	margin: auto;
+}
+.white_bottom h3{
+	text-align: center;
+}
+.white_bottom table{
+	width: 700px;
+	background-color: sandybrown;
+	margin: auto;
+	border-collapse: collapse;
+}
+.white_bottom th, td{
+	border: 2px black solid;
+}
